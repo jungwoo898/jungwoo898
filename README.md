@@ -4,6 +4,9 @@
 |Competition|Award|Date|
 |:----:|:----:|:----:|
 |[2025년 광진구 빅데이터 분석 공모전](https://www.gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6397299&menuNo=200192&pSiteId=portal&pageIndex=1)|대상|2025-03 ~ 2025-06|
+|농축산물빅데이터서비스 공모전|은상|2024-11 ~ 2024-12|
+|지식재산권특허캠프|우수상|2024-08 ~ 2024-08|
+|제 14회 전국통계활용대회|대상|2012-08 ~ 2012-10|
 
 <!--
 **jungwoo898/jungwoo898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
